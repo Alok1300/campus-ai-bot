@@ -17,6 +17,7 @@ LOCATION IDs (valid sources/destinations):
 Academic blocks: A1, A2, A3, B1, B2, B3, B4, B5, C1, C2, C3, D1, D2, D3, D4, D5, D7, D8, DD1, DD2, DD3, DD4
 Gates: GATE_1, GATE_2, GATE_3
 Landmarks: LIBRARY, SPORTS_COMPLEX, INFO_CENTRE, MAIN_GROUND
+POIs: Extract the EXACT name if mentioned (e.g. "Corner Cafe", "Library Cafe", "Gate 1 ATM", "University Pharmacy")
 
 CATEGORIES: cafe, stationery, atm, food_court, pharmacy, mobile_repair, restaurant, printing, parking, sports, medical
 

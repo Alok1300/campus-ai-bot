@@ -9,12 +9,23 @@ class LocationResolver:
         self.locations = self._load_locations()
         
     def _load_locations(self) -> Dict[str, Any]:
+        combined = {}
+        
         loc_file = os.path.join(settings.DATA_DIR, "locations.json")
-        if not os.path.exists(loc_file):
-            return {}
-        with open(loc_file, "r") as f:
-            data = json.load(f)
-            return {item["id"]: item for item in data}
+        if os.path.exists(loc_file):
+            with open(loc_file, "r") as f:
+                data = json.load(f)
+                for item in data:
+                    combined[item["id"]] = item
+                    
+        places_file = os.path.join(settings.DATA_DIR, "places.json")
+        if os.path.exists(places_file):
+            with open(places_file, "r") as f:
+                data = json.load(f)
+                for item in data:
+                    combined[item["id"]] = item
+                    
+        return combined
 
     def get_location_by_id(self, loc_id: str) -> Dict[str, Any] | None:
         return self.locations.get(loc_id)

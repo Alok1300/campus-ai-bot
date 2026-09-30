@@ -206,5 +206,21 @@
     "services": ["notebooks", "pens", "files", "stationery", "printing"],
     "verification_status": "approximate",
     "source": "CU campus data"
+  },
+  {
+    "id": "POI_014",
+    "name": "Corner Cafe",
+    "type": "poi",
+    "category": "cafe",
+    "subcategory": "coffee_shop",
+    "description": "A cozy cafe at the corner of D block area",
+    "campus_area": "D Block Area",
+    "nearest_building": "D1",
+    "nearest_navigation_node": "N_D1",
+    "entrance_node": "N_D1",
+    "aliases": ["Corner Cafe", "corner cafe", "corner coffee", "corner cafe D1"],
+    "services": ["coffee", "tea", "snacks", "sandwiches", "cold_drinks"],
+    "verification_status": "verified",
+    "source": "CU campus data"
   }
 ]

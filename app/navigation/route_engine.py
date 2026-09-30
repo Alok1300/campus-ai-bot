@@ -15,8 +15,8 @@ def get_route(source_name: str, destination_name: str) -> Dict[str, Any]:
     if not dst_loc:
         return {"error": "Destination location not found or ambiguous."}
         
-    src_node = campus_graph.get_node_by_location_id(src_loc["id"])
-    dst_node = campus_graph.get_node_by_location_id(dst_loc["id"])
+    src_node = src_loc.get("entrance_node") or src_loc.get("nearest_navigation_node") or campus_graph.get_node_by_location_id(src_loc["id"])
+    dst_node = dst_loc.get("entrance_node") or dst_loc.get("nearest_navigation_node") or campus_graph.get_node_by_location_id(dst_loc["id"])
     
     if not src_node:
         return {"error": f"No navigable entrance found for {src_loc['name']}."}
