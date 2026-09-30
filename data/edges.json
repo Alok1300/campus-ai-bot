@@ -1,0 +1,254 @@
+[
+  {
+    "from": "N_GATE_1",
+    "to": "J1",
+    "distance_m": 50,
+    "walkable": true,
+    "restricted": false
+  },
+  {
+    "from": "N_GATE_2",
+    "to": "J1",
+    "distance_m": 60,
+    "walkable": true,
+    "restricted": false
+  },
+  {
+    "from": "N_A1",
+    "to": "J1",
+    "distance_m": 30,
+    "walkable": true,
+    "restricted": false
+  },
+  {
+    "from": "N_A2",
+    "to": "J1",
+    "distance_m": 40,
+    "walkable": true,
+    "restricted": false
+  },
+  {
+    "from": "N_A3",
+    "to": "J1",
+    "distance_m": 50,
+    "walkable": true,
+    "restricted": false
+  },
+  {
+    "from": "J1",
+    "to": "J2",
+    "distance_m": 150,
+    "walkable": true,
+    "restricted": false
+  },
+  {
+    "from": "N_B1",
+    "to": "J2",
+    "distance_m": 40,
+    "walkable": true,
+    "restricted": false
+  },
+  {
+    "from": "N_B2",
+    "to": "J2",
+    "distance_m": 30,
+    "walkable": true,
+    "restricted": false
+  },
+  {
+    "from": "N_B3",
+    "to": "J2",
+    "distance_m": 20,
+    "walkable": true,
+    "restricted": false
+  },
+  {
+    "from": "N_B4",
+    "to": "J2",
+    "distance_m": 30,
+    "walkable": true,
+    "restricted": false
+  },
+  {
+    "from": "J2",
+    "to": "J7",
+    "distance_m": 100,
+    "walkable": true,
+    "restricted": false
+  },
+  {
+    "from": "N_B5",
+    "to": "J7",
+    "distance_m": 50,
+    "walkable": true,
+    "restricted": false
+  },
+  {
+    "from": "N_INFO_CENTRE",
+    "to": "J7",
+    "distance_m": 40,
+    "walkable": true,
+    "restricted": false
+  },
+  {
+    "from": "J7",
+    "to": "J3",
+    "distance_m": 120,
+    "walkable": true,
+    "restricted": false
+  },
+  {
+    "from": "N_D3",
+    "to": "J3",
+    "distance_m": 20,
+    "walkable": true,
+    "restricted": false
+  },
+  {
+    "from": "N_D4",
+    "to": "J3",
+    "distance_m": 30,
+    "walkable": true,
+    "restricted": false
+  },
+  {
+    "from": "N_D5",
+    "to": "J3",
+    "distance_m": 40,
+    "walkable": true,
+    "restricted": false
+  },
+  {
+    "from": "N_D1",
+    "to": "J3",
+    "distance_m": 50,
+    "walkable": true,
+    "restricted": false
+  },
+  {
+    "from": "N_D2",
+    "to": "J3",
+    "distance_m": 60,
+    "walkable": true,
+    "restricted": false
+  },
+  {
+    "from": "J3",
+    "to": "J4",
+    "distance_m": 80,
+    "walkable": true,
+    "restricted": false
+  },
+  {
+    "from": "N_D7",
+    "to": "J4",
+    "distance_m": 20,
+    "walkable": true,
+    "restricted": false
+  },
+  {
+    "from": "N_D8",
+    "to": "J4",
+    "distance_m": 30,
+    "walkable": true,
+    "restricted": false
+  },
+  {
+    "from": "N_GATE_3",
+    "to": "J4",
+    "distance_m": 70,
+    "walkable": true,
+    "restricted": false
+  },
+  {
+    "from": "J4",
+    "to": "J5",
+    "distance_m": 150,
+    "walkable": true,
+    "restricted": false
+  },
+  {
+    "from": "N_DD1",
+    "to": "J5",
+    "distance_m": 40,
+    "walkable": true,
+    "restricted": false
+  },
+  {
+    "from": "N_DD2",
+    "to": "J5",
+    "distance_m": 30,
+    "walkable": true,
+    "restricted": false
+  },
+  {
+    "from": "N_DD3",
+    "to": "J5",
+    "distance_m": 50,
+    "walkable": true,
+    "restricted": false
+  },
+  {
+    "from": "N_DD4",
+    "to": "J5",
+    "distance_m": 60,
+    "walkable": true,
+    "restricted": false
+  },
+  {
+    "from": "J3",
+    "to": "J6",
+    "distance_m": 200,
+    "walkable": true,
+    "restricted": false
+  },
+  {
+    "from": "N_SPORTS_COMPLEX",
+    "to": "J6",
+    "distance_m": 50,
+    "walkable": true,
+    "restricted": false
+  },
+  {
+    "from": "J2",
+    "to": "N_MAIN_GROUND",
+    "distance_m": 120,
+    "walkable": true,
+    "restricted": false
+  },
+  {
+    "from": "J2",
+    "to": "N_LIBRARY",
+    "distance_m": 80,
+    "walkable": true,
+    "restricted": false
+  },
+  {
+    "from": "J6",
+    "to": "J5",
+    "distance_m": 180,
+    "walkable": true,
+    "restricted": false
+  },
+  {
+    "from": "J6",
+    "to": "N_C1",
+    "distance_m": 100,
+    "walkable": true,
+    "restricted": false
+  },
+  {
+    "from": "N_C1",
+    "to": "N_C2",
+    "distance_m": 50,
+    "walkable": true,
+    "restricted": false
+  },
+  {
+    "from": "N_C2",
+    "to": "N_C3",
+    "distance_m": 50,
+    "walkable": true,
+    "restricted": false
+  }
+]

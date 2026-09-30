@@ -1,0 +1,175 @@
+[
+  {
+    "id": "N_A1",
+    "location_id": "A1",
+    "type": "building_entrance"
+  },
+  {
+    "id": "N_A2",
+    "location_id": "A2",
+    "type": "building_entrance"
+  },
+  {
+    "id": "N_A3",
+    "location_id": "A3",
+    "type": "building_entrance"
+  },
+  {
+    "id": "N_B1",
+    "location_id": "B1",
+    "type": "building_entrance"
+  },
+  {
+    "id": "N_B2",
+    "location_id": "B2",
+    "type": "building_entrance"
+  },
+  {
+    "id": "N_B3",
+    "location_id": "B3",
+    "type": "building_entrance"
+  },
+  {
+    "id": "N_B4",
+    "location_id": "B4",
+    "type": "building_entrance"
+  },
+  {
+    "id": "N_B5",
+    "location_id": "B5",
+    "type": "building_entrance"
+  },
+  {
+    "id": "N_C1",
+    "location_id": "C1",
+    "type": "building_entrance"
+  },
+  {
+    "id": "N_C2",
+    "location_id": "C2",
+    "type": "building_entrance"
+  },
+  {
+    "id": "N_C3",
+    "location_id": "C3",
+    "type": "building_entrance"
+  },
+  {
+    "id": "N_D1",
+    "location_id": "D1",
+    "type": "building_entrance"
+  },
+  {
+    "id": "N_D2",
+    "location_id": "D2",
+    "type": "building_entrance"
+  },
+  {
+    "id": "N_D3",
+    "location_id": "D3",
+    "type": "building_entrance"
+  },
+  {
+    "id": "N_D4",
+    "location_id": "D4",
+    "type": "building_entrance"
+  },
+  {
+    "id": "N_D5",
+    "location_id": "D5",
+    "type": "building_entrance"
+  },
+  {
+    "id": "N_D7",
+    "location_id": "D7",
+    "type": "building_entrance"
+  },
+  {
+    "id": "N_D8",
+    "location_id": "D8",
+    "type": "building_entrance"
+  },
+  {
+    "id": "N_DD1",
+    "location_id": "DD1",
+    "type": "building_entrance"
+  },
+  {
+    "id": "N_DD2",
+    "location_id": "DD2",
+    "type": "building_entrance"
+  },
+  {
+    "id": "N_DD3",
+    "location_id": "DD3",
+    "type": "building_entrance"
+  },
+  {
+    "id": "N_DD4",
+    "location_id": "DD4",
+    "type": "building_entrance"
+  },
+  {
+    "id": "N_GATE_1",
+    "location_id": "GATE_1",
+    "type": "gate"
+  },
+  {
+    "id": "N_GATE_2",
+    "location_id": "GATE_2",
+    "type": "gate"
+  },
+  {
+    "id": "N_GATE_3",
+    "location_id": "GATE_3",
+    "type": "gate"
+  },
+  {
+    "id": "N_LIBRARY",
+    "location_id": "LIBRARY",
+    "type": "building_entrance"
+  },
+  {
+    "id": "N_SPORTS_COMPLEX",
+    "location_id": "SPORTS_COMPLEX",
+    "type": "building_entrance"
+  },
+  {
+    "id": "N_INFO_CENTRE",
+    "location_id": "INFO_CENTRE",
+    "type": "building_entrance"
+  },
+  {
+    "id": "N_MAIN_GROUND",
+    "location_id": "MAIN_GROUND",
+    "type": "building_entrance"
+  },
+  {
+    "id": "J1",
+    "type": "junction"
+  },
+  {
+    "id": "J2",
+    "type": "junction"
+  },
+  {
+    "id": "J3",
+    "type": "junction"
+  },
+  {
+    "id": "J4",
+    "type": "junction"
+  },
+  {
+    "id": "J5",
+    "type": "junction"
+  },
+  {
+    "id": "J6",
+    "type": "junction"
+  },
+  {
+    "id": "J7",
+    "type": "junction"
+  }
+]
